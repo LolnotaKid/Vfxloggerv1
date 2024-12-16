@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/Vfxloggerv2Newkey/refs/heads/main/Protected_4999264561602948.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WeAreNotDevs/VfxLoggerV1.5NewKey/refs/heads/main/Protected_8470538492737837.txt"))()
