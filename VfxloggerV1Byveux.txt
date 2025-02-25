@@ -1,3 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LolnotaKid/VfxloggerV2/refs/heads/main/Protected_2783276938034691.txt"))()
+-- This Loadsting To Update The File don't copy
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WeAreNotDevs/WeAreDevsLogger/refs/heads/main/Protected_1547401965513171.txt"))()
 
     
